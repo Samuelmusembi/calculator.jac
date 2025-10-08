@@ -1,5 +1,5 @@
 walker Calculator {
-    has num1: int;
+    has num1: int
     has num2: int;
     has choice: str;
 
