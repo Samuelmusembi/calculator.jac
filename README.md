@@ -24,6 +24,7 @@ walker Calculator {
                 print("❌ Error: Division by zero!");
             }
         } else {
+    
             print("⚠️ Invalid choice.");
         }
     }
